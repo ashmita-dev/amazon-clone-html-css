@@ -1,5 +1,9 @@
 # Amazon Homepage Clone
 
+## Live Demo
+🔗 https://ashmita-dev.github.io/amazon-clone-html-css/
+
+
 This is a beginner-friendly Amazon homepage clone built using **HTML and CSS** as part of my frontend learning journey.
 
 ## Features
@@ -36,4 +40,5 @@ All logos and images belong to Amazon.
 
 ## Author
 Built by Ashmita Mazumdar
+
 
